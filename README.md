@@ -1,5 +1,6 @@
 ### QA Engineer with experience in testing Big Data system.
 ### I'm fond of working with backend, especially ETL data-pipelines and API-integrations. 
+### Currently imporving my python skills to implement as much automation in my working processes as possible 😄
 
 ### [Link to CV]()
 ### Contacts
