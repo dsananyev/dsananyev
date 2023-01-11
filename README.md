@@ -1,8 +1,8 @@
 ### QA Engineer with experience in testing Big Data system.
 ### I'm fond of working with backend, especially ETL data-pipelines and API-integrations. 
-### Currently imporving my python skills to implement as much automation in my working processes as possible 😄
+### Currently imporving my python skills to implement automation in my working processes
 
-### [Link to CV]()
+### [Link to CV](https://drive.google.com/file/d/1IzSpTp_qh-Py7GpADt_I-AXAz2d7xKfn/view](https://drive.google.com/file/d/1IzSpTp_qh-Py7GpADt_I-AXAz2d7xKfn/view?usp=share_link)
 ### Contacts
 [![Header](https://img.shields.io/badge/Telegram----?style=social&logo=telegram)](https://t.me/dsananyev)
 [![Header](https://img.shields.io/badge/LinkedIn----?style=social&logo=linkedin)](https://www.linkedin.com/in/dsananyev)
