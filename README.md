@@ -36,7 +36,7 @@
 ![Header](https://img.shields.io/badge/Docker----?style=social&logo=docker)
 
 #### Monitoring
-![Header](https://img.shields.io/badge/Logstash----?style=social&logo=logstash)
+![Header](https://img.shields.io/badge/Kibana----?style=social&logo=kibana)
 ![Header](https://img.shields.io/badge/Grafana----?style=social&logo=grafana&logoColor=e95629)
 
 #### TMS
