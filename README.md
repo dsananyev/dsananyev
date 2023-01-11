@@ -2,7 +2,7 @@
 ### I'm fond of working with backend, especially ETL data-pipelines and API-integrations. 
 ### Currently imporving my python skills to implement automation in my working processes
 
-### [Link to CV]([https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/](https://drive.google.com/file/d/1IzSpTp_qh-Py7GpADt_I-AXAz2d7xKfn/view](https://drive.google.com/file/d/1IzSpTp_qh-Py7GpADt_I-AXAz2d7xKfn/view?usp=share_link))
+### ([Link to my CV](https://drive.google.com/file/d/1IzSpTp_qh-Py7GpADt_I-AXAz2d7xKfn/view))
 
 ### Contacts
 [![Header](https://img.shields.io/badge/Telegram----?style=social&logo=telegram)](https://t.me/dsananyev)
