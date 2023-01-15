@@ -2,7 +2,7 @@
 ### I'm fond of working with backend, especially ETL data-pipelines and API-integrations. 
 ### Currently imporving my python skills to implement automation in my working processes
 
-### [Link to CV](https://drive.google.com/file/d/10Av1pRH8AcEUjw6flrUgNSfCtQC85t4L/view?usp=share_link)
+### [Link to CV](https://drive.google.com/file/d/1gm8EgF15ENOPyzLoYsvYVlA2hXBMAyXr/view?usp=share_link)
 
 ### Contacts
 [![Header](https://img.shields.io/badge/Telegram----?style=social&logo=telegram)](https://t.me/dsananyev)
@@ -33,7 +33,7 @@
 ![Header](https://img.shields.io/badge/Jenkins----?style=social&logo=jenkins)
 ![Header](https://img.shields.io/badge/TeamCity----?style=social&logo=teamcity)
 ![Header](https://img.shields.io/badge/Kubernetes----?style=social&logo=kubernetes)
-![Header](https://img.shields.io/badge/Docker----?style=social&logo=docker)
+<!---![Header](https://img.shields.io/badge/Docker----?style=social&logo=docker)--->
 
 #### Monitoring
 ![Header](https://img.shields.io/badge/Kibana----?style=social&logo=kibana)
